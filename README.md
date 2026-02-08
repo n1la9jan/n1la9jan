@@ -1,6 +1,6 @@
 <html>
   <div align=center>
-    <img src=https://i.imgur.com/71JfgWR.gif>
+    <img src=https://i.postimg.cc/4xdcsdSx/Screenshot-from-2026-02-09-01-35-07.png>
     <img src=https://i.imgur.com/yTmF4Lj.gif>
     <img src=https://i.imgur.com/eIT2C9B.gif>
     <div align=center>
